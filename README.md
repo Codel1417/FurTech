@@ -43,7 +43,7 @@ Sensors connect over I2C
 * 2 Display Connections
 * Single output connection
 
-### jetson Nano Breakout
+### Jetson Nano Breakout
 
 * I2C In
 * Display SPI in
