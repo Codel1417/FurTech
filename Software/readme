@@ -1,0 +1,1 @@
+Vision will be handled using GStreamer and OpenCV, in python. After coding and getting to a functional point I may switch to C/C++ for reduced power consumption.
