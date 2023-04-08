@@ -56,3 +56,8 @@ Sensors connect over I2C
 * Stereo Cameras 1080P@60
 * Usb PD battery
 * 2x MatrixOrbital EVE3/4 displays
+* 6x SG90 Servos
+
+## 3D Printer STLs
+
+* [https://www.thingiverse.com/thing:717901](https://www.thingiverse.com/thing:717901)
